@@ -2,3 +2,8 @@
 	path = zaidkilani/printJV
 	url = git@github.com:zaidkilani/printJV.git
 	branch = master
+
+[submodule "zaidkilani/printjv1"]
+	path = zaidkilani/printjv1
+	url = git@github.com:zaidkilani/printjv1.git
+	branch = master
